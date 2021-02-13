@@ -17,7 +17,7 @@ function mark(inv){
       for (let i = 0; i < inv.length; i++)
       sortedcarnames.push(inv[i].car_model)
       
-    retrun inv;
+    retrun inv
     
 }
 
